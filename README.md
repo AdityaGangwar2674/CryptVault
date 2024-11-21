@@ -98,7 +98,7 @@ CryptVault simplifies complex cryptographic concepts by providing hands-on inter
 
 ## 🛠 Tools Used
 - React.js for Frontend 
-- Python Libraries for implementation of the Algorithms
+- Javascript Libraries for implementation of the Algorithms
 - HTML, CSS
 - Javascript
 
